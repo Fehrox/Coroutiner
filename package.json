@@ -1,0 +1,11 @@
+{
+  "name": "com.seb.coroutiner",
+  "displayName": "Coroutiner",
+  "version": "1.0.0",
+  "unity": "2019.2",
+  "keywords": [
+    "Unity Coroutine runner"
+  ],
+  "description": "Creates MonoBehaviour instance through which any class can call StartCoroutine.",
+  "relatedPackages": {}
+}
